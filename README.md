@@ -30,4 +30,4 @@ A walkthrough detailing the installation and initial configuration of Kali Linux
 - Update system packages (`sudo apt update && sudo apt upgrade)
 - Configure guest additions for display integration
 - Set up isolated virtual networking for security testing<img width="960" height="510" alt="kali_linux_setup_screeenshot" src="https://github.com/user-attachments/assets/75ccda92-1a55-45c0-aba6-238e85d5b589" />
-<img width="960" height="510" alt="kali_linux_setup_screeenshot" src="https://github.com/user-attachments/assets/8078578c-02ca-44f8-9b5f-568eae3853fa" />
+
